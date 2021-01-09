@@ -1,3 +1,5 @@
 Name: Ironhacker
 City: Miami
 Sport: Basketball
+Food: Mexican
+Hobby: Coding
